@@ -19,14 +19,29 @@ body {
 
 h1 {
     text-align: center;
+    font-family: verdana, geneva, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: verdana, geneva, sans-serif;
 }
 
 
 img {
-    border: 10px solid #99E9FF; /* 10px is the border size, followed by line, and colour, see w3schools.com */
+    border: 1px solid #505050;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+p {
+    text-align: center;
 }
 
-    
-h4 {
-    color: #EAB500; /* can choose colors online */
+.h_line {
+    width: 100%;
+    height: 1px;
+    background: #505050;
 }
+        
