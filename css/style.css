@@ -1,0 +1,32 @@
+/* You can't see this message */
+ 
+body {
+    background: #F8F8F8;
+}
+
+#nav {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #505050;
+    color: white;
+}
+
+#nav a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+img {
+    border: 10px solid #99E9FF; /* 10px is the border size, followed by line, and colour, see w3schools.com */
+}
+
+    
+h4 {
+    color: #EAB500; /* can choose colors online */
+}
