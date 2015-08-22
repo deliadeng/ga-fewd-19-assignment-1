@@ -14,7 +14,7 @@ body {
 
 #nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: none; /* tried to make it underlined when hovering but didn't know how */
 }
 
 h1 {
